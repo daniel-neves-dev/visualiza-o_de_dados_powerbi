@@ -3,7 +3,7 @@
 <p></p>
 Objetivo:</h2>
 
-<p>Este projeto foi desenvolvido como parte do bootcamp NTT DATA Engenharia de Dados com Python, oferecido pela Digital Innovation One (DIO). O foco do desafio foi a criação de relatórios mais detalhados de vendas, lucro e custos de fabricação, utilizando a ferramenta Power BI.</p>
+<p>Este projeto foi desenvolvido como parte do bootcamp NTT DATA Engenharia de Dados com Python, oferecido pela Digital Innovation One (DIO). O foco do desafio foi a criação de relatórios mais detalhados de vendas, lucro e custos de fabricação, utilização de botões, utilizando a ferramenta Power BI.</p>
 
 Funcionalidades do Relatório.
 O relatório foi dividido em três principais painéis:
