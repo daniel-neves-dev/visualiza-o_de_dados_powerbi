@@ -1,8 +1,8 @@
-<h1>Relatório de Vendas, Lucro e Custo de Fabricação em Power BI  </h1> 
-<h2>Desafio 2 - Relatório e visualização de dados com Power BI.
-<p></p>
-Objetivo:</h2>
+<h1>Relatório de Vendas, Lucro e Custo de Fabricação em Power BI</h1> 
 
+<h2>Desafio 2 - Relatório e visualização de dados com Power BI.</h2>
+
+<h3>Objetivo:</h3>
 <p>Este projeto foi desenvolvido como parte do bootcamp NTT DATA Engenharia de Dados com Python, oferecido pela Digital Innovation One (DIO). O foco do desafio foi a criação de relatórios mais detalhados de vendas, lucro e custos de fabricação, utilização de botões, utilizando a ferramenta Power BI.</p>
 
 Funcionalidades do Relatório.
